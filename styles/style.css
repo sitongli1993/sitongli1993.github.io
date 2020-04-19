@@ -32,10 +32,10 @@ h1 {
   text-shadow: 3px 3px 1px #081F43;
 }
 
-img {
+#shipping {
   display: block;
   margin: 0 auto;
-  width: 300px;
+  width: 500px;
 }
 
 /*
