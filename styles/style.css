@@ -3,7 +3,7 @@ html {
   font-size: 10px; 
   /* Google fonts 输出的 CSS */
   font-family: 'Open Sans', sans-serif; 
-  background-color: #44570E;
+  background-color: #FFFFFF;
 }
 
 h1 {
@@ -28,7 +28,7 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;    
-  color: #2B6FDD;
+  color: #FFFDD0;
   text-shadow: 3px 3px 1px #081F43;
 }
 
