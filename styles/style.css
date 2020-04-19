@@ -38,6 +38,12 @@ h1 {
   width: 500px;
 }
 
+.poster {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
+
 /*
 这里的所有内容
 都是注释。
